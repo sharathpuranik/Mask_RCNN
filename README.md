@@ -146,7 +146,7 @@ Use this bibtex to cite this repository:
 ```
 @misc{matterport_maskrcnn_2017,
   title={Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow},
-  author={Abdulla, Waleed},
+  author={Waleed Abdulla},
   year={2017},
   publisher={Github},
   journal={GitHub repository},
@@ -179,11 +179,11 @@ If you use Docker, the code has been verified to work on
 
 
 ## Installation
-1. Install dependencies
+1. Clone this repository
+2. Install dependencies
    ```bash
    pip3 install -r requirements.txt
    ```
-2. Clone this repository
 3. Run setup from the repository root directory
     ```bash
     python3 setup.py install
